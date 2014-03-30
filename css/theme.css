@@ -1,0 +1,31 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+a {
+  color: inherit;
+}
+
+s {
+  text-decoration: none;
+}
+
+li {
+  padding: 10px;
+  list-style: none;
+}
+
+.username {
+  font-size: 13px;
+  color: #8899a6;
+}
+
+.stream-item-footer {
+  font-size: 12px;
+  color: #999;
+}
+
+.hashtag {
+    color: #8899a6;
+}
