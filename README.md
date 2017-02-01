@@ -8,7 +8,7 @@ and parallel curl.
 ## Reflection
 
 It is interesting to see how we used to do those things before shifting
-to Node or async programming. You can see how ungly it was to do parallel
+to Node or async programming. You can see how ugly it was to do parallel
 curl requests. Also PHP got lots of recent additions so this code is quite
 outdated.
 
