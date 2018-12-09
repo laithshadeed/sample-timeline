@@ -19,7 +19,7 @@ Other code samples
 
 ## See live on Heroku
 
-[Demo](http://laith-timeline.herokuapp.com/katyperry)
+[Demo](http://laith-timeline.herokuapp.com/laithshadeed)
 
 ## LICENSE
 
